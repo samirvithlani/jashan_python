@@ -71,3 +71,12 @@ else:
     else part..    
 
 ladder if else
+
+
+monthly sal --> year pa --->
+
+if yearly package > 10,000,000 --> 10% loan
+if yealr package >  700000 --> 8 %
+5000000 -> 6%
+
+no loan
