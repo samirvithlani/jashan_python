@@ -1,0 +1,46 @@
+python :
+programming lang / scripting lang
+c,cpp,java
+python js 
+
+statically | dynamically
+
+1)statically : we have to provide data type to variable... ,c,cpp,
+2)dynamically : we dont need to provide: python ,js
+
+x =100 int , p = 90.90 float
+
+intro python:
+find: whome:
+
+python : scripts,games,desktop application, web application [dajngo,fastapi],datascience
+file --> .py
+
+indendations : {} block..
+
+
+data types in python 
+int
+float
+str : '' || ""
+NoneType
+
+
+
+type casting:
+
+implicit type casting: compiler
+    int x = 100.20
+    print(100)
+
+
+explicit type casting: programmer
+
+str --> int -->explicit 
+int type : int data 
+
+narrow type | broad type
+
+narrow --> float --> int
+broad --> int --> float
+
