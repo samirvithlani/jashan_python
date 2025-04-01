@@ -56,3 +56,18 @@ asignment operators : =, +=,-=,*=...
 membership operaotrs = in  not in
 identity operators = is is not
 bitwise : <<,>>,<,>^,|,&
+
+
+decision making statements:
+if else
+switch case : match case
+loops
+
+
+if condition:
+    indentation part
+    ifpart...
+else:
+    else part..    
+
+ladder if else
