@@ -44,3 +44,15 @@ narrow type | broad type
 narrow --> float --> int
 broad --> int --> float
 
+operators: operators are the sp symbol which can use to perform operatrions bw operands
+binery op : min 2 operands
+ternenry op : required min 3 operands , ? :
+unery op: required only one operands : ++ , --, a++ , --a
+
+arithmetic operators: + , - , /, *,% , **,// floor op
+logical op : and or not
+relational operaotr : , == , <=,>=,!= ...
+asignment operators : =, +=,-=,*=...
+membership operaotrs = in  not in
+identity operators = is is not
+bitwise : <<,>>,<,>^,|,&
