@@ -80,3 +80,17 @@ if yealr package >  700000 --> 8 %
 5000000 -> 6%
 
 no loan
+
+
+
+loops:
+entery control loop , for while
+no * exit control loop : do while
+
+for sp -> ep 
+
+while -> ep
+
+for(int i=1;i<=10;i++)
+
+stirng: to store single or mul char python provides string datatype
