@@ -94,3 +94,24 @@ while -> ep
 for(int i=1;i<=10;i++)
 
 stirng: to store single or mul char python provides string datatype
+
+array: array is group of similar kind of element:
+array static:
+
+python ds:
+list
+tuple
+set
+dict
+
+list:
+characteristics:
+1) list is ordered collection of elements eg:[10,20,30]
+2) list is mutable
+3) list is heterogeneous : [10,false,10.20,"hello"]
+4) list is dynamic in nature: [10,20,30] ->add 100: [10,20,30,100] grow --> remove 20 [10,30,100] -> shrink
+5) list is indexed collection of elements: [10,20,30] -> 0,1,2
+6) list is iterable collection of elements: [10,20,30] -> for i in list: print(i)
+7)list is subscriptable collection of elements: [10,20,30] -> [0:2] -> [10,20]
+8)data type of list is list
+9) datastructure of list is dynamic array
