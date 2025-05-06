@@ -115,3 +115,15 @@ characteristics:
 7)list is subscriptable collection of elements: [10,20,30] -> [0:2] -> [10,20]
 8)data type of list is list
 9) datastructure of list is dynamic array
+
+
+
+
+list:
+numbers:
+even no list
+odd no list
+2) sales 7 days : new list : profit 20%
+3) list string: len >5 -->
+4)remove duplicate elemt from list
+
