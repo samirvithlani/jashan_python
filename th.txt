@@ -127,3 +127,13 @@ odd no list
 3) list string: len >5 -->
 4)remove duplicate elemt from list
 
+
+
+tuple:
+characteristics:
+1) tuple is ordered collection of elements eg:(10,20,30)
+2) tuple is immutable
+3) tuple is heterogeneous : (10,false,10.20,"hello")
+5) tuple is indexed collection of elements: (10,20,30) -> 0,1,2
+
+
