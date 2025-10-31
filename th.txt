@@ -154,3 +154,22 @@ output
 [101]
 
 
+list task:
+
+get name from user and add it to list if user insert exit insted of name
+then exit and priont list
+
+sales = [100,200,300,400,500,600]
+add 10% profit in sales and give new list with profit
+
+
+remove duplicate element from list
+["jay","raj","parth","jay","parth","kunal"]
+
+
+dict:
+dict stores data in key value pair
+dict allows duplicate values but not key
+dict is hetrog,
+dict is mutabledict is subscriptable
+dict is iterable

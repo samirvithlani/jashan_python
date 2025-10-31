@@ -1,0 +1,6 @@
+# Example Input:
+dict1 = {'a': 10, 'b': 20, 'c': 30}
+dict2 = {'b': 5, 'c': 15, 'd': 25}
+
+# Expected Output:
+# {'a': 10, 'b': 25, 'c': 45, 'd': 25}
