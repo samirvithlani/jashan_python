@@ -173,3 +173,15 @@ dict allows duplicate values but not key
 dict is hetrog,
 dict is mutabledict is subscriptable
 dict is iterable
+
+
+set
+set is iterable
+but set is not subscriptable
+set stores data in hashtable not indexed
+set does not allow duplicate elements
+set is dynamic
+set is hetrogenius
+data type of set is set
+we can decalre empty set using set({})
+set is unordered
