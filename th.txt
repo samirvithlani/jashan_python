@@ -185,3 +185,13 @@ set is hetrogenius
 data type of set is set
 we can decalre empty set using set({})
 set is unordered
+
+
+function:
+def keyword
+def funname(param):
+   block
+   return
+
+
+4 type of function

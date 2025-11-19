@@ -19,3 +19,12 @@ print(data)
 
 data.discard(20)
 print(data)
+
+for i in data:
+    print(i)
+
+
+
+
+
+#pop ->    
