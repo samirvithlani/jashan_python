@@ -195,3 +195,5 @@ def funname(param):
 
 
 4 type of function
+
+function as object
