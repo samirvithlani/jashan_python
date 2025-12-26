@@ -197,3 +197,14 @@ def funname(param):
 4 type of function
 
 function as object
+
+python files:
+same as c lang:
+file mode: r w a w ....
+
+to store data permenently we use file...
+3 operatrions open file -> read/write/append --> close file...
+
+path:
+relative path : ./th.txt
+abs path :D:\royal\jashan-python\th.txt

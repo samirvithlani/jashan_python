@@ -1,0 +1,1 @@
+hi this is using write() 2nd linehi this is using write() 2nd line
